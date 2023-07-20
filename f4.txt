@@ -1,0 +1,5 @@
+WElcome to git repository
+
+Git practice 
+
+second initialization
